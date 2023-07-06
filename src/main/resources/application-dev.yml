@@ -1,0 +1,6 @@
+myapp:
+  username: dev
+  password: devpassword
+dev:
+  token: devtoken
+  mail: devmail
